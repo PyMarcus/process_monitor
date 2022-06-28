@@ -4,6 +4,10 @@ Psutil (process and system utilities) is a cross-platform library for retrieving
 <br>
 https://pypi.org/project/psutil/
 
+
+![dash](https://user-images.githubusercontent.com/88283829/176066200-3fdc007b-ecc8-4b21-8b9b-7e4fbb931bd6.png)
+
+
 ### About hardware
 
 <h5>Virtual memory</h5>
